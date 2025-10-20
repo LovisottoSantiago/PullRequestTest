@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\PullRequestTest\PullRequest\PullRequest\bin\Debug\net8.0\PullRequest.exe
+C:\Users\Administrator\Desktop\PullRequestTest\PullRequest\PullRequest\bin\Debug\net8.0\PullRequest.deps.json
+C:\Users\Administrator\Desktop\PullRequestTest\PullRequest\PullRequest\bin\Debug\net8.0\PullRequest.runtimeconfig.json
+C:\Users\Administrator\Desktop\PullRequestTest\PullRequest\PullRequest\bin\Debug\net8.0\PullRequest.dll
+C:\Users\Administrator\Desktop\PullRequestTest\PullRequest\PullRequest\bin\Debug\net8.0\PullRequest.pdb
+C:\Users\Administrator\Desktop\PullRequestTest\PullRequest\PullRequest\obj\Debug\net8.0\PullRequest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\PullRequestTest\PullRequest\PullRequest\obj\Debug\net8.0\PullRequest.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\PullRequestTest\PullRequest\PullRequest\obj\Debug\net8.0\PullRequest.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\PullRequestTest\PullRequest\PullRequest\obj\Debug\net8.0\PullRequest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PullRequestTest\PullRequest\PullRequest\obj\Debug\net8.0\PullRequest.sourcelink.json
+C:\Users\Administrator\Desktop\PullRequestTest\PullRequest\PullRequest\obj\Debug\net8.0\PullRequest.dll
+C:\Users\Administrator\Desktop\PullRequestTest\PullRequest\PullRequest\obj\Debug\net8.0\refint\PullRequest.dll
+C:\Users\Administrator\Desktop\PullRequestTest\PullRequest\PullRequest\obj\Debug\net8.0\PullRequest.pdb
+C:\Users\Administrator\Desktop\PullRequestTest\PullRequest\PullRequest\obj\Debug\net8.0\PullRequest.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\PullRequestTest\PullRequest\PullRequest\obj\Debug\net8.0\ref\PullRequest.dll
