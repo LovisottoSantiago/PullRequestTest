@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Desktop\\PullRequestTest\\PullRequest\\PullRequest\\PullRequest.csproj": {}
+    "C:\\Users\\tonel\\OneDrive\\Desktop\\PullRequestTest-Test\\PullRequest\\PullRequest\\PullRequest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Desktop\\PullRequestTest\\PullRequest\\PullRequest\\PullRequest.csproj": {
+    "C:\\Users\\tonel\\OneDrive\\Desktop\\PullRequestTest-Test\\PullRequest\\PullRequest\\PullRequest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\PullRequestTest\\PullRequest\\PullRequest\\PullRequest.csproj",
+        "projectUniqueName": "C:\\Users\\tonel\\OneDrive\\Desktop\\PullRequestTest-Test\\PullRequest\\PullRequest\\PullRequest.csproj",
         "projectName": "PullRequest",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\PullRequestTest\\PullRequest\\PullRequest\\PullRequest.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\PullRequestTest\\PullRequest\\PullRequest\\obj\\",
+        "projectPath": "C:\\Users\\tonel\\OneDrive\\Desktop\\PullRequestTest-Test\\PullRequest\\PullRequest\\PullRequest.csproj",
+        "packagesPath": "C:\\Users\\tonel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tonel\\OneDrive\\Desktop\\PullRequestTest-Test\\PullRequest\\PullRequest\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\tonel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -43,8 +39,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -65,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
